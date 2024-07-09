@@ -1,3 +1,4 @@
 absl-py
 google-cloud-core
 google-cloud-storage
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
